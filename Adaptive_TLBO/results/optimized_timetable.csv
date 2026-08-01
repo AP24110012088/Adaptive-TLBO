@@ -1,0 +1,121 @@
+Section,Course,Faculty,Room,Day,Time,Period,Hours,Priority,SubjectID,Type
+CSE-A,DBMS,Ramesh,SeminarHall,Wednesday,2,P2,1,5,S001,Theory
+CSE-A,DBMS,Ramesh,SeminarHall,Monday,4,P4,1,5,S001,Theory
+CSE-A,Operating Systems,Suresh,SeminarHall,Tuesday,5,P5,1,5,S002,Theory
+CSE-A,Operating Systems,Suresh,SmartRoom,Thursday,5,P5,1,5,S002,Theory
+CSE-A,Artificial Intelligence,Priya,R104,Monday,3,P3,1,5,S003,Theory
+CSE-A,Artificial Intelligence,Priya,R103,Monday,1,P1,1,5,S003,Theory
+CSE-A,Data Structures,Kiran,R105,Tuesday,2,P2,1,5,S006,Theory
+CSE-A,Data Structures,Kiran,SmartRoom,Friday,2,P2,1,5,S006,Theory
+CSE-A,Machine Learning,Sneha,R103,Tuesday,8,P8,1,5,S008,Theory
+CSE-A,Machine Learning,Sneha,R102,Tuesday,1,P1,1,5,S008,Theory
+CSE-A,Compiler Design,Meena,SmartRoom,Monday,2,P2,1,5,S011,Theory
+CSE-A,Compiler Design,Meena,SeminarHall,Friday,4,P4,1,5,S011,Theory
+CSE-A,Digital Logic,Prakash,R105,Tuesday,4,P4,1,5,S017,Theory
+CSE-A,Digital Logic,Prakash,R101,Thursday,4,P4,1,5,S017,Theory
+CSE-A,Discrete Mathematics,Keerthi,R101,Thursday,2,P2,1,5,S018,Theory
+CSE-A,Discrete Mathematics,Keerthi,R104,Wednesday,3,P3,1,5,S018,Theory
+CSE-A,Computer Networks,Anjali,R101,Wednesday,4,P4,1,4,S004,Theory
+CSE-A,Computer Networks,Anjali,R101,Thursday,3,P3,1,4,S004,Theory
+CSE-A,Java Programming,Ravi,Lab2,Friday,5,P5,1,4,S005,Lab
+CSE-A,Java Programming,Ravi,Lab2,Wednesday,8,P8,1,4,S005,Lab
+CSE-A,Python Programming,Divya,Lab2,Wednesday,5,P5,1,4,S007,Lab
+CSE-A,Python Programming,Divya,Lab2,Wednesday,7,P7,1,4,S007,Lab
+CSE-A,Cloud Computing,Arun,SmartRoom,Tuesday,6,P6,1,4,S010,Theory
+CSE-A,Cloud Computing,Arun,R102,Friday,6,P6,1,4,S010,Theory
+CSE-A,Cyber Security,Lakshmi,R103,Tuesday,3,P3,1,4,S013,Theory
+CSE-A,Cyber Security,Lakshmi,R104,Friday,1,P1,1,4,S013,Theory
+CSE-A,Big Data Analytics,Satish,R102,Thursday,8,P8,1,4,S014,Theory
+CSE-A,Big Data Analytics,Satish,SeminarHall,Friday,8,P8,1,4,S014,Theory
+CSE-A,Web Technologies,Srinivas,Lab3,Thursday,7,P7,1,4,S019,Lab
+CSE-A,Web Technologies,Srinivas,Lab2,Thursday,6,P6,1,4,S019,Lab
+CSE-A,Data Mining,Pavani,R104,Thursday,1,P1,1,4,S020,Theory
+CSE-A,Data Mining,Pavani,R102,Wednesday,1,P1,1,4,S020,Theory
+CSE-A,Software Engineering,Vijay,R102,Monday,8,P8,1,3,S009,Theory
+CSE-A,Software Engineering,Vijay,SeminarHall,Wednesday,6,P6,1,3,S009,Theory
+CSE-A,Computer Graphics,Rajesh,Lab1,Monday,6,P6,1,3,S012,Lab
+CSE-A,Computer Graphics,Rajesh,Lab1,Tuesday,7,P7,1,3,S012,Lab
+CSE-A,Internet of Things,Harish,Lab3,Friday,3,P3,1,3,S015,Lab
+CSE-A,Internet of Things,Harish,Lab1,Monday,7,P7,1,3,S015,Lab
+CSE-A,Mobile Computing,Nandini,R103,Monday,5,P5,1,3,S016,Theory
+CSE-A,Mobile Computing,Nandini,R103,Friday,7,P7,1,3,S016,Theory
+CSE-B,DBMS,Ramesh,R105,Friday,1,P1,1,5,S001,Theory
+CSE-B,DBMS,Ramesh,R103,Thursday,2,P2,1,5,S001,Theory
+CSE-B,Operating Systems,Suresh,SmartRoom,Monday,5,P5,1,5,S002,Theory
+CSE-B,Operating Systems,Suresh,R101,Tuesday,8,P8,1,5,S002,Theory
+CSE-B,Artificial Intelligence,Priya,R105,Wednesday,3,P3,1,5,S003,Theory
+CSE-B,Artificial Intelligence,Priya,SmartRoom,Wednesday,4,P4,1,5,S003,Theory
+CSE-B,Data Structures,Kiran,R105,Monday,2,P2,1,5,S006,Theory
+CSE-B,Data Structures,Kiran,SmartRoom,Thursday,3,P3,1,5,S006,Theory
+CSE-B,Machine Learning,Sneha,R105,Tuesday,3,P3,1,5,S008,Theory
+CSE-B,Machine Learning,Sneha,R105,Friday,2,P2,1,5,S008,Theory
+CSE-B,Compiler Design,Meena,SeminarHall,Wednesday,1,P1,1,5,S011,Theory
+CSE-B,Compiler Design,Meena,R104,Monday,1,P1,1,5,S011,Theory
+CSE-B,Digital Logic,Prakash,R102,Friday,3,P3,1,5,S017,Theory
+CSE-B,Digital Logic,Prakash,R104,Monday,4,P4,1,5,S017,Theory
+CSE-B,Discrete Mathematics,Keerthi,SeminarHall,Tuesday,1,P1,1,5,S018,Theory
+CSE-B,Discrete Mathematics,Keerthi,R102,Monday,3,P3,1,5,S018,Theory
+CSE-B,Computer Networks,Anjali,R104,Tuesday,2,P2,1,4,S004,Theory
+CSE-B,Computer Networks,Anjali,R103,Thursday,4,P4,1,4,S004,Theory
+CSE-B,Java Programming,Ravi,Lab3,Thursday,8,P8,1,4,S005,Lab
+CSE-B,Java Programming,Ravi,Lab3,Thursday,5,P5,1,4,S005,Lab
+CSE-B,Python Programming,Divya,Lab3,Friday,5,P5,1,4,S007,Lab
+CSE-B,Python Programming,Divya,Lab3,Friday,6,P6,1,4,S007,Lab
+CSE-B,Cloud Computing,Arun,R102,Wednesday,6,P6,1,4,S010,Theory
+CSE-B,Cloud Computing,Arun,R101,Tuesday,7,P7,1,4,S010,Theory
+CSE-B,Cyber Security,Lakshmi,R103,Wednesday,2,P2,1,4,S013,Theory
+CSE-B,Cyber Security,Lakshmi,R105,Thursday,1,P1,1,4,S013,Theory
+CSE-B,Big Data Analytics,Satish,SeminarHall,Thursday,7,P7,1,4,S014,Theory
+CSE-B,Big Data Analytics,Satish,R105,Tuesday,6,P6,1,4,S014,Theory
+CSE-B,Web Technologies,Srinivas,Lab1,Wednesday,5,P5,1,4,S019,Lab
+CSE-B,Web Technologies,Srinivas,Lab1,Wednesday,7,P7,1,4,S019,Lab
+CSE-B,Data Mining,Pavani,R101,Tuesday,4,P4,1,4,S020,Theory
+CSE-B,Data Mining,Pavani,R105,Friday,4,P4,1,4,S020,Theory
+CSE-B,Software Engineering,Vijay,R103,Thursday,6,P6,1,3,S009,Theory
+CSE-B,Software Engineering,Vijay,SmartRoom,Friday,8,P8,1,3,S009,Theory
+CSE-B,Computer Graphics,Rajesh,Lab1,Monday,8,P8,1,3,S012,Lab
+CSE-B,Computer Graphics,Rajesh,Lab1,Wednesday,8,P8,1,3,S012,Lab
+CSE-B,Internet of Things,Harish,Lab1,Friday,7,P7,1,3,S015,Lab
+CSE-B,Internet of Things,Harish,Lab2,Tuesday,5,P5,1,3,S015,Lab
+CSE-B,Mobile Computing,Nandini,R105,Monday,6,P6,1,3,S016,Theory
+CSE-B,Mobile Computing,Nandini,R104,Monday,7,P7,1,3,S016,Theory
+CSE-C,DBMS,Ramesh,SeminarHall,Tuesday,2,P2,1,5,S001,Theory
+CSE-C,DBMS,Ramesh,R101,Wednesday,3,P3,1,5,S001,Theory
+CSE-C,Operating Systems,Suresh,R101,Monday,8,P8,1,5,S002,Theory
+CSE-C,Operating Systems,Suresh,R103,Monday,7,P7,1,5,S002,Theory
+CSE-C,Artificial Intelligence,Priya,R101,Friday,2,P2,1,5,S003,Theory
+CSE-C,Artificial Intelligence,Priya,R103,Monday,2,P2,1,5,S003,Theory
+CSE-C,Data Structures,Kiran,SeminarHall,Tuesday,4,P4,1,5,S006,Theory
+CSE-C,Data Structures,Kiran,R102,Wednesday,2,P2,1,5,S006,Theory
+CSE-C,Machine Learning,Sneha,SmartRoom,Monday,3,P3,1,5,S008,Theory
+CSE-C,Machine Learning,Sneha,R104,Wednesday,4,P4,1,5,S008,Theory
+CSE-C,Compiler Design,Meena,R102,Thursday,4,P4,1,5,S011,Theory
+CSE-C,Compiler Design,Meena,R102,Monday,4,P4,1,5,S011,Theory
+CSE-C,Digital Logic,Prakash,SeminarHall,Friday,1,P1,1,5,S017,Theory
+CSE-C,Digital Logic,Prakash,SmartRoom,Wednesday,1,P1,1,5,S017,Theory
+CSE-C,Discrete Mathematics,Keerthi,R103,Thursday,1,P1,1,5,S018,Theory
+CSE-C,Discrete Mathematics,Keerthi,R105,Monday,1,P1,1,5,S018,Theory
+CSE-C,Computer Networks,Anjali,R101,Friday,3,P3,1,4,S004,Theory
+CSE-C,Computer Networks,Anjali,R104,Thursday,2,P2,1,4,S004,Theory
+CSE-C,Java Programming,Ravi,Lab2,Friday,8,P8,1,4,S005,Lab
+CSE-C,Java Programming,Ravi,Lab2,Monday,6,P6,1,4,S005,Lab
+CSE-C,Python Programming,Divya,Lab1,Tuesday,5,P5,1,4,S007,Lab
+CSE-C,Python Programming,Divya,Lab2,Thursday,5,P5,1,4,S007,Lab
+CSE-C,Cloud Computing,Arun,R101,Wednesday,5,P5,1,4,S010,Theory
+CSE-C,Cloud Computing,Arun,R101,Monday,5,P5,1,4,S010,Theory
+CSE-C,Cyber Security,Lakshmi,SmartRoom,Tuesday,1,P1,1,4,S013,Theory
+CSE-C,Cyber Security,Lakshmi,R104,Friday,4,P4,1,4,S013,Theory
+CSE-C,Big Data Analytics,Satish,SeminarHall,Friday,5,P5,1,4,S014,Theory
+CSE-C,Big Data Analytics,Satish,R102,Wednesday,8,P8,1,4,S014,Theory
+CSE-C,Web Technologies,Srinivas,Lab2,Friday,7,P7,1,4,S019,Lab
+CSE-C,Web Technologies,Srinivas,Lab3,Tuesday,6,P6,1,4,S019,Lab
+CSE-C,Data Mining,Pavani,SmartRoom,Tuesday,3,P3,1,4,S020,Theory
+CSE-C,Data Mining,Pavani,R103,Thursday,3,P3,1,4,S020,Theory
+CSE-C,Software Engineering,Vijay,R104,Tuesday,8,P8,1,3,S009,Theory
+CSE-C,Software Engineering,Vijay,R104,Thursday,8,P8,1,3,S009,Theory
+CSE-C,Computer Graphics,Rajesh,Lab1,Friday,6,P6,1,3,S012,Lab
+CSE-C,Computer Graphics,Rajesh,Lab3,Wednesday,7,P7,1,3,S012,Lab
+CSE-C,Internet of Things,Harish,Lab3,Wednesday,6,P6,1,3,S015,Lab
+CSE-C,Internet of Things,Harish,Lab3,Tuesday,7,P7,1,3,S015,Lab
+CSE-C,Mobile Computing,Nandini,R105,Thursday,6,P6,1,3,S016,Theory
+CSE-C,Mobile Computing,Nandini,SmartRoom,Thursday,7,P7,1,3,S016,Theory

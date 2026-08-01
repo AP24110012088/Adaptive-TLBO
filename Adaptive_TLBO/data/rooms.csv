@@ -1,0 +1,11 @@
+﻿RoomID,Capacity,Type
+R101,60,Theory
+R102,60,Theory
+R103,70,Theory
+R104,50,Theory
+R105,80,Theory
+Lab1,35,Lab
+Lab2,35,Lab
+Lab3,40,Lab
+SeminarHall,120,Theory
+SmartRoom,60,Theory
