@@ -182,11 +182,6 @@ The generated outputs include:
 
 ---
 
-## License
-
-This project is intended for academic and research purposes.
-
----
 
 ## Author
 
